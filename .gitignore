@@ -1,0 +1,9 @@
+build/
+app/
+cache/
+tools/
+*.log
+*.part
+.DS_Store
+__pycache__/
+screens-*.png

@@ -1,0 +1,7 @@
+MIDlet-1: bbtube,/icon.png,BBTube
+MIDlet-Name: bbtube
+MIDlet-Vendor: bbtube
+MIDlet-Version: 1.3.4
+MIDlet-Icon: /icon.png
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
